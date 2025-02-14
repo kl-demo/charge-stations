@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Зарядки</string>
+    <string name="cities">Города с зарядными станциями</string>
+    <string name="city_chargers">Зарядные станции в городе %1$s</string>
+    <string name="show_city_chargers">Показать зарядные станции в городе</string>
+    <string name="back_to_cities">Вернуться к выбору города</string>
+</resources>
